@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33815.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "H1_Extra_DNA", "H1_Extra_DNA\H1_Extra_DNA.csproj", "{D28796FD-B225-4DF0-AE4A-F6D229768C67}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D28796FD-B225-4DF0-AE4A-F6D229768C67}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D28796FD-B225-4DF0-AE4A-F6D229768C67}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D28796FD-B225-4DF0-AE4A-F6D229768C67}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D28796FD-B225-4DF0-AE4A-F6D229768C67}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DDB244DC-9FAF-45DC-A548-2F98DAC6C761}
+	EndGlobalSection
+EndGlobal
